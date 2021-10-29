@@ -1,0 +1,25 @@
+C:\Users\bru_s\Desktop\Biomedic\Biomedic VS\Biomedic VS\bin\Debug\x86\sqlite3.dll
+C:\Users\bru_s\Desktop\Biomedic\Biomedic VS\Biomedic VS\bin\Debug\x64\sqlite3.dll
+C:\Users\bru_s\Desktop\Biomedic\Biomedic VS\Biomedic VS\bin\Debug\Biomedic VS.exe.config
+C:\Users\bru_s\Desktop\Biomedic\Biomedic VS\Biomedic VS\bin\Debug\Biomedic VS.exe.manifest
+C:\Users\bru_s\Desktop\Biomedic\Biomedic VS\Biomedic VS\bin\Debug\Biomedic VS.application
+C:\Users\bru_s\Desktop\Biomedic\Biomedic VS\Biomedic VS\bin\Debug\Biomedic VS.exe
+C:\Users\bru_s\Desktop\Biomedic\Biomedic VS\Biomedic VS\bin\Debug\Biomedic VS.pdb
+C:\Users\bru_s\Desktop\Biomedic\Biomedic VS\Biomedic VS\bin\Debug\EntityFramework.dll
+C:\Users\bru_s\Desktop\Biomedic\Biomedic VS\Biomedic VS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bru_s\Desktop\Biomedic\Biomedic VS\Biomedic VS\bin\Debug\System.Data.SQLite.dll
+C:\Users\bru_s\Desktop\Biomedic\Biomedic VS\Biomedic VS\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\bru_s\Desktop\Biomedic\Biomedic VS\Biomedic VS\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\bru_s\Desktop\Biomedic\Biomedic VS\Biomedic VS\bin\Debug\EntityFramework.xml
+C:\Users\bru_s\Desktop\Biomedic\Biomedic VS\Biomedic VS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bru_s\Desktop\Biomedic\Biomedic VS\Biomedic VS\bin\Debug\System.Data.SQLite.xml
+C:\Users\bru_s\Desktop\Biomedic\Biomedic VS\Biomedic VS\obj\Debug\Biomedic_VS.Total.resources
+C:\Users\bru_s\Desktop\Biomedic\Biomedic VS\Biomedic VS\obj\Debug\Biomedic_VS.Properties.Resources.resources
+C:\Users\bru_s\Desktop\Biomedic\Biomedic VS\Biomedic VS\obj\Debug\Biomedic VS.csproj.GenerateResource.cache
+C:\Users\bru_s\Desktop\Biomedic\Biomedic VS\Biomedic VS\obj\Debug\Biomedic VS.csproj.CoreCompileInputs.cache
+C:\Users\bru_s\Desktop\Biomedic\Biomedic VS\Biomedic VS\obj\Debug\Biomedic VS.TrustInfo.xml
+C:\Users\bru_s\Desktop\Biomedic\Biomedic VS\Biomedic VS\obj\Debug\Biomedic VS.exe.manifest
+C:\Users\bru_s\Desktop\Biomedic\Biomedic VS\Biomedic VS\obj\Debug\Biomedic VS.application
+C:\Users\bru_s\Desktop\Biomedic\Biomedic VS\Biomedic VS\obj\Debug\Biomedic VS.csproj.CopyComplete
+C:\Users\bru_s\Desktop\Biomedic\Biomedic VS\Biomedic VS\obj\Debug\Biomedic VS.exe
+C:\Users\bru_s\Desktop\Biomedic\Biomedic VS\Biomedic VS\obj\Debug\Biomedic VS.pdb

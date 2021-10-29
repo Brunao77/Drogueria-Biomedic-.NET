@@ -1,0 +1,25 @@
+C:\Users\bru_s\Desktop\Biomedic\Biomedic VS\Biomedic VS\bin\Release\x86\sqlite3.dll
+C:\Users\bru_s\Desktop\Biomedic\Biomedic VS\Biomedic VS\bin\Release\x64\sqlite3.dll
+C:\Users\bru_s\Desktop\Biomedic\Biomedic VS\Biomedic VS\bin\Release\Biomedic Vencimientos.exe.config
+C:\Users\bru_s\Desktop\Biomedic\Biomedic VS\Biomedic VS\bin\Release\Biomedic Vencimientos.exe.manifest
+C:\Users\bru_s\Desktop\Biomedic\Biomedic VS\Biomedic VS\bin\Release\Biomedic Vencimientos.application
+C:\Users\bru_s\Desktop\Biomedic\Biomedic VS\Biomedic VS\bin\Release\Biomedic Vencimientos.exe
+C:\Users\bru_s\Desktop\Biomedic\Biomedic VS\Biomedic VS\bin\Release\Biomedic Vencimientos.pdb
+C:\Users\bru_s\Desktop\Biomedic\Biomedic VS\Biomedic VS\bin\Release\EntityFramework.dll
+C:\Users\bru_s\Desktop\Biomedic\Biomedic VS\Biomedic VS\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\bru_s\Desktop\Biomedic\Biomedic VS\Biomedic VS\bin\Release\System.Data.SQLite.dll
+C:\Users\bru_s\Desktop\Biomedic\Biomedic VS\Biomedic VS\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\bru_s\Desktop\Biomedic\Biomedic VS\Biomedic VS\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\bru_s\Desktop\Biomedic\Biomedic VS\Biomedic VS\bin\Release\EntityFramework.xml
+C:\Users\bru_s\Desktop\Biomedic\Biomedic VS\Biomedic VS\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\bru_s\Desktop\Biomedic\Biomedic VS\Biomedic VS\bin\Release\System.Data.SQLite.xml
+C:\Users\bru_s\Desktop\Biomedic\Biomedic VS\Biomedic VS\obj\Release\Biomedic_VS.Total.resources
+C:\Users\bru_s\Desktop\Biomedic\Biomedic VS\Biomedic VS\obj\Release\Biomedic_VS.Properties.Resources.resources
+C:\Users\bru_s\Desktop\Biomedic\Biomedic VS\Biomedic VS\obj\Release\Biomedic VS.csproj.GenerateResource.cache
+C:\Users\bru_s\Desktop\Biomedic\Biomedic VS\Biomedic VS\obj\Release\Biomedic VS.csproj.CoreCompileInputs.cache
+C:\Users\bru_s\Desktop\Biomedic\Biomedic VS\Biomedic VS\obj\Release\Biomedic Vencimientos.TrustInfo.xml
+C:\Users\bru_s\Desktop\Biomedic\Biomedic VS\Biomedic VS\obj\Release\Biomedic Vencimientos.exe.manifest
+C:\Users\bru_s\Desktop\Biomedic\Biomedic VS\Biomedic VS\obj\Release\Biomedic Vencimientos.application
+C:\Users\bru_s\Desktop\Biomedic\Biomedic VS\Biomedic VS\obj\Release\Biomedic VS.csproj.CopyComplete
+C:\Users\bru_s\Desktop\Biomedic\Biomedic VS\Biomedic VS\obj\Release\Biomedic Vencimientos.exe
+C:\Users\bru_s\Desktop\Biomedic\Biomedic VS\Biomedic VS\obj\Release\Biomedic Vencimientos.pdb
